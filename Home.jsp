@@ -1,2 +1,1 @@
-# CreditCardFraud
-This is my first project
+<jsp:include = "Home.jsp"></jsp:include>
