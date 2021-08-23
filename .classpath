@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Desktop/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/sqljdbc_9.2/enu/mssql-jdbc-9.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/sqljdbc_9.2/enu/mssql-jdbc-9.2.1.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/sqljdbc_9.2/enu/mssql-jdbc-9.2.1.jre15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/softwares&amp;impcodes/javamail-1.4.7/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/softwares&amp;impcodes/javamail-1.4.7/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/softwares&amp;impcodes/javamail-1.4.7/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/softwares&amp;impcodes/javamail-1.4.7/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/softwares&amp;impcodes/javamail-1.4.7/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/softwares&amp;impcodes/javamail-1.4.7/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/Drivers/activation.jar"/>
+	<classpathentry kind="lib" path="C:/MY demos/Drivers/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/javax.mail-api-1.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akshay/Downloads/javax.mail.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
